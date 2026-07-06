@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/aryancodes12-bit"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="[https://github.com/aryancodes12-bit](https://portfolio-one-gules-fxxz8g237e.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/aryanjaiswal30"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:aryanjaiswal3080@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/aryancodes12-bit"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white" /></a>
